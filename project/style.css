@@ -3,7 +3,7 @@ body{
     background-color: #000;
     color: #fff;
     overflow: hidden;
-    font-family:  Calibri, 'Trebuchet MS', sans-serif;
+    font-family: sans-serif;
 }
 .main{
     display: flex;
